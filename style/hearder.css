@@ -1,0 +1,89 @@
+.navbar{
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding: 20px;  
+}
+
+.logo{
+    text-transform: uppercase;
+    color: #ffffff;
+    width: 1758px;
+    height: 29px;
+    top: 40px;
+    left: 80px;
+    gap: 0px;
+    opacity: 0px;
+}
+    
+.list_item{
+    color: #FFFFFF;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19.5px;
+    text-align: left;    
+}
+
+.header{
+margin-top: 260px;
+margin-left: 80px;
+width: 870px;
+}
+
+.header_h1{
+color: #ffffff;
+font-family: Montserrat;
+font-size: 48px;
+font-weight: 700;
+}
+
+.header_p{
+font-family: Montserrat;
+font-size: 16px;
+font-weight: 500;
+line-height: 40px;
+text-align: left;  
+width: 660px;  
+color: #ffffff;
+}
+
+.btn{
+width: 203px;
+height: 61px;
+top: 628px;
+left: 80px;
+gap: 0px;
+opacity: 0px;
+border-radius: 6px;
+border: rgb(255, 255, 255) 9px;
+background: #FF8A00;
+color: #FFFFFF;
+font-family: Montserrat;
+font-size: 14px;
+font-weight: 700;
+line-height: 28px;
+text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
